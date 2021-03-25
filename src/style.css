@@ -123,12 +123,12 @@ nav ul li {
 #main-about {
   margin: 10rem auto;
   justify-content: space-around;
-  max-width: 1200px;
+  max-width: 120rem;
 }
 
 
 #main-about img {
-  width: 30%;
+  width: 30rem;
 }
 
 .main-about-container {
@@ -223,13 +223,13 @@ footer img {
 /* Media Query */
 
 
-@media only screen and (max-width: 440px) {
+@media only screen and (max-width: 540px) {
   html {
     font-size: 30%;
   }
 
   
 .main-how-works-container img {
-  max-width: 45rem;
+  max-width: 40rem;
  }
 }
