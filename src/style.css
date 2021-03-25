@@ -219,3 +219,17 @@ footer img {
   width: 15rem;
   margin-right: 1rem;
 }
+
+/* Media Query */
+
+
+@media only screen and (max-width: 440px) {
+  html {
+    font-size: 30%;
+  }
+
+  
+.main-how-works-container img {
+  max-width: 45rem;
+ }
+}
