@@ -1,0 +1,263 @@
+/* -----------General Styles ---------- */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font: 1.6rem "Exo", sans-serif;
+}
+
+.flex {
+  display: flex;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  width: 100%;
+}
+
+main {
+  color: gray;
+}
+
+h1,
+h2,
+h3 {
+  color: #000;
+}
+
+i {
+  color: #f48c06;
+  font-size: 5rem;
+  margin-left: 1rem;
+}
+
+/* ---------Navigation Style ---------- */
+
+nav {
+  position: sticky;
+  margin: 2rem auto;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+}
+
+nav .nav-logo {
+  margin-left: 5rem;
+  width: 10rem;
+}
+
+nav ul {
+  flex: 1;
+  justify-content: space-evenly;
+}
+
+nav ul li {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+/* ---------Main Section Style ---------- */
+
+.main-header {
+  text-align: center;
+  margin-top: 10rem;
+}
+
+.main-header h3 {
+  margin: 3rem 0;
+}
+
+.main-header button {
+  padding: 1.5rem 4rem;
+  background: #e7412a;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: 30px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.main-header button:hover {
+  background: #de3119;
+}
+
+#main-section {
+  max-width: 100rem;
+  justify-content: space-between;
+  margin: 10rem auto;
+}
+
+#main-section div {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  flex-basis: 20rem;
+}
+
+#main-section div * {
+  margin-bottom: 2rem;
+}
+
+#main-section div img {
+  width: 50%;
+}
+
+/* -------Main About Style----- */
+
+#main-about {
+  margin: 10rem auto;
+  justify-content: space-around;
+  max-width: 120rem;
+}
+
+#main-about img {
+  width: 30rem;
+}
+
+.main-about-container {
+  flex: 0.7;
+}
+
+.main-about-container h1 {
+  margin-bottom: 2rem;
+}
+
+/* -----------Main How to works Style-------- */
+
+#main-how-works {
+  text-align: right;
+  margin-right: 20rem;
+}
+
+#main-how-works > h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+#main-how-works > h2 {
+  margin-bottom: 5rem;
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+#main-how-works > h1,
+#main-how-works > h2 {
+  margin-right: 5rem;
+}
+
+.main-how-works-container {
+  justify-content: center;
+}
+
+.main-how-works-container img {
+  max-width: 60rem;
+}
+
+.main-how-works-container > div {
+  flex-direction: column;
+}
+
+.how-works-small-container div {
+  max-width: 27rem;
+  text-align: center;
+  margin: 0 2rem 2rem 2rem;
+}
+
+.how-works-small-container > div > h3 {
+  margin: 1.5rem;
+}
+
+/*--------------------- Footer Style------------------- */
+
+footer {
+  justify-content: space-around;
+  background-color: #232120;
+  padding: 5rem;
+  color: #fff;
+  margin-top: 10rem;
+}
+
+footer > div > ul:first-child {
+  margin-right: 10rem;
+}
+
+footer h3 {
+  color: #fff;
+}
+
+footer > div > ul > li {
+  margin-top: 1rem;
+  transition: 0.3s;
+}
+
+footer > div > ul > li:hover {
+  font-weight: bolder;
+}
+
+footer > ul:last-child h3 {
+  margin-bottom: 3rem;
+}
+
+footer img {
+  width: 15rem;
+  margin-right: 1rem;
+}
+
+/* Media Query */
+
+@media only screen and (max-width: 540px) {
+  html {
+    font-size: 25%;
+  }
+
+  #main-section {
+    justify-content: center;
+  }
+
+  #main-section > * {
+    margin: 5rem;
+  }
+
+  .main-how-works-container img {
+    max-width: 40rem;
+    margin: 5rem;
+  }
+
+  #main-about {
+    align-items: center;
+    justify-content: center;
+  }
+
+  #main-about img {
+    width: 30rem;
+    margin: 5rem;
+  }
+
+  .main-how-works-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  i {
+    width: 3rem;
+    margin: 2rem;
+  }
+}
