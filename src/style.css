@@ -36,6 +36,14 @@ main {
   color: gray;
 }
 
+section {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
 h1,
 h2,
 h3 {
@@ -46,6 +54,11 @@ i {
   color: #f48c06;
   font-size: 5rem;
   margin-left: 1rem;
+}
+
+span {
+  font-size: 2rem;
+  font-weight: 400;
 }
 
 .btn {
@@ -101,7 +114,6 @@ nav ul li {
 .main-header {
   text-align: center;
   margin-top: 10rem;
-  
 }
 
 .main-header h3 {
@@ -122,7 +134,6 @@ nav ul li {
 }
 
 #main-section div * {
-  text-align: center;
   margin-bottom: 2rem;
 }
 
@@ -136,7 +147,6 @@ nav ul li {
   margin: 10rem auto;
   justify-content: space-around;
   max-width: 120rem;
-  
 }
 
 #main-about img {
@@ -159,7 +169,6 @@ nav ul li {
 }
 
 #main-how-works > h1 {
-  font-size: 3rem;
   margin-bottom: 1rem;
 }
 
@@ -197,12 +206,8 @@ nav ul li {
 }
 
 /* ----------Service-Retailer Style ----------- */
-#service-retailer {
-  text-align: center;
-}
 
 #service-retailer > h1 {
-  font-size: 3rem;
   margin: 10rem 0 5rem;
 }
 
@@ -273,6 +278,111 @@ nav ul li {
 .retailer-main-description li {
   list-style: inside;
 }
+
+/* ----------Service-Individual Style ----------- */
+#service-individual {
+  margin-top: 10rem;
+}
+
+#service-individual h1 {
+  margin-bottom: 5rem;
+}
+
+.individual-container {
+  display: flex;
+  max-width: 120rem;
+  margin: auto;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.individual-container > div {
+  width: 25rem;
+  margin: 4rem;
+}
+
+.individual-container > div > img {
+  width: 30%;
+}
+
+.individual-container h2 {
+  font-size: 2rem;
+  margin: 1.5rem;
+}
+
+/* ----------Driver Style ----------- */
+#driver {
+  margin-top: 10rem;
+}
+
+#driver img {
+  margin: 5rem 0;
+}
+
+#driver h2 {
+  margin-bottom: 2rem;
+}
+
+#driver > p {
+  color: #000;
+  font-weight: 700;
+}
+
+#driver > p > a {
+  color: gray; 
+  font-weight: normal;
+}
+
+.driver-container {
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 100rem;
+  margin: auto;
+}
+
+.driver-container > ul {
+  max-width: 40rem;
+  margin: 5rem;
+}
+
+.driver-container > ul > li {
+ font-size: 2rem;
+ font-weight: 600;
+ color: #000;
+ list-style: inside;
+}
+
+.driver-container > ul > hr {
+  width: 10rem;
+  height: 0.3rem;
+  margin: 0.5rem auto 2rem;
+  border: none;
+  background-color: #de3119;
+}
+
+.driver-container-info {
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.driver-container-info > ul {
+  text-align: left;
+}
+
+.driver-container-info > ul > h1 {
+  margin-bottom: 2rem;
+}
+
+.driver-container-info > ul > li {
+  color: gray;
+  font-size: 1.6rem;
+  list-style: inside;
+}
+
+.driver-container-info > img {
+  width: 50rem;
+} 
 
 /*--------------------- Footer Style------------------- */
 
