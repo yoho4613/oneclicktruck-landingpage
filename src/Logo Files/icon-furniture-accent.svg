@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="75px" viewBox="0 0 90 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icons / Use Cases / icon-furniture-accent</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-Use-Cases-/-icon-furniture-accent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="furniture_icon">
+            <rect id="Rectangle-26" fill="#E9E8E8" x="13.2911392" y="60.7594937" width="5.69620253" height="11.3924051"></rect>
+            <rect id="Rectangle-26" fill="#E9E8E8" x="71.2025316" y="60.7594937" width="5.69620253" height="11.3924051"></rect>
+            <path d="M14.7151899,60.8941348 L14.7151899,71.2264132 L17.5632911,71.2264132 L17.5632911,60.8941348 L14.7151899,60.8941348 Z M20.4113924,58.0460335 L20.4113924,74.0745145 L11.8670886,74.0745145 L11.8670886,58.0460335 L20.4113924,58.0460335 Z" id="Rectangle-15" fill="#242120" fill-rule="nonzero"></path>
+            <path d="M72.6265823,71.2264132 L75.4746835,71.2264132 L75.4746835,60.8941348 L72.6265823,60.8941348 L72.6265823,71.2264132 Z M78.3227848,58.0460335 L78.3227848,74.0745145 L69.778481,74.0745145 L69.778481,58.0460335 L78.3227848,58.0460335 Z" id="Rectangle-15" fill="#242120" fill-rule="nonzero"></path>
+            <g id="Group-4">
+                <rect id="Rectangle-23" fill="#FFFFFF" x="7.59493671" y="0.949367089" width="72.1518987" height="49.3670886"></rect>
+                <path d="M9.89475568,3.32278481 L9.89475568,59.2941662 L79.0705107,59.2941662 L79.0705107,3.32278481 L9.89475568,3.32278481 Z M81.918612,0.474683544 L81.918612,62.1422675 L7.04665442,62.1422675 L7.04665442,0.474683544 L81.918612,0.474683544 Z" id="Rectangle-14" fill="#242120" fill-rule="nonzero"></path>
+                <polygon id="Rectangle" fill="#E7412A" fill-rule="nonzero" points="2.82581471 32.2578426 84.4089014 32.2578426 84.4089014 52.3802972 2.82581471 52.3802972"></polygon>
+                <g id="Group-5" transform="translate(1.898734, 23.734177)" fill="#FFFFFF">
+                    <rect id="Rectangle-25" x="74.0506329" y="0" width="11.3924051" height="37.0253165"></rect>
+                    <rect id="Rectangle-25-Copy" x="0" y="0" width="11.3924051" height="37.0253165"></rect>
+                    <rect id="Rectangle-3" x="1.89873418" y="23.7341772" width="78.7974684" height="13.2911392"></rect>
+                </g>
+                <path d="M74.060315,45.8791965 L74.060315,22.1450193 L88.5827255,22.1450193 L88.5827255,45.8791965 L88.6141936,62.1422675 L0.474683544,62.1422675 L0.474683544,22.1450193 L14.9970941,22.1450193 L14.9970941,45.8791965 L74.060315,45.8791965 Z M76.9084163,24.9931205 L76.9084163,48.7272977 L12.1489928,48.7272977 L12.1489928,24.9931205 L3.32278481,24.9931205 L3.32278481,59.2941662 L85.7660923,59.2941662 L85.7660923,48.7272977 L85.7346243,24.9931205 L76.9084163,24.9931205 Z" id="Rectangle-14-Copy" fill="#242120" fill-rule="nonzero"></path>
+            </g>
+            <polygon id="Rectangle-4" fill="#242120" fill-rule="nonzero" transform="translate(67.479552, 12.651348) scale(1, -1) translate(-67.479552, -12.651348) " points="60.8449332 15.2311502 60.8449332 17.1298844 74.1141705 17.1298844 74.1141705 8.17281233 72.2154363 8.17281233 72.2154363 15.2311502"></polygon>
+            <polygon id="Rectangle-4" fill="#242120" fill-rule="nonzero" transform="translate(21.800905, 12.651348) scale(-1, -1) translate(-21.800905, -12.651348) " points="26.5367897 15.2311502 15.1662867 15.2311502 15.1662867 17.1298844 28.4355239 17.1298844 28.4355239 8.17281233 26.5367897 8.17281233"></polygon>
+            <polygon id="Line" fill="#242120" fill-rule="nonzero" points="43.5942291 2.02256467 43.5942291 47.4687662 46.4423304 47.4687662 46.4423304 2.02256467"></polygon>
+            <polygon id="Line" fill="#242120" fill-rule="nonzero" points="12.3223973 35.2916896 76.9173349 35.2916896 76.9173349 32.4435883 12.3223973 32.4435883"></polygon>
+        </g>
+    </g>
+</svg>

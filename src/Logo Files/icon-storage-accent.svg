@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="75px" viewBox="0 0 90 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icons / Use Cases / icon-storage-accent</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-Use-Cases-/-icon-storage-accent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-storage" transform="translate(6.000000, 0.000000)">
+            <g>
+                <g id="Group-22">
+                    <polygon id="Fill-25" fill="#E7412A" fill-rule="nonzero" points="8.65384615 11.5384615 68.4752747 11.5384615 68.4752747 74.0384615 8.65384615 74.0384615"></polygon>
+                    <polygon id="Fill-21-Copy" fill="#FFFFFF" points="1.92307692 1.92307692 1.92307692 73.5270049 9.75932312 73.5270049 9.75932312 11.6407529 68.8873626 11.6407529 68.8873626 73.5270049 76.7236088 73.5270049 76.7236088 1.92307692"></polygon>
+                    <path d="M11.2016308,13.0830606 L11.2016308,74.9693126 L0.480769231,74.9693126 L0.480769231,0.480769231 L78.1659165,0.480769231 L78.1659165,74.9693126 L67.4450549,74.9693126 L67.4450549,13.0830606 L11.2016308,13.0830606 Z M3.36538462,3.36538462 L3.36538462,72.0846972 L8.31701543,72.0846972 L8.31701543,10.1984452 L70.3296703,10.1984452 L70.3296703,72.0846972 L75.2813011,72.0846972 L75.2813011,3.36538462 L3.36538462,3.36538462 Z" id="Fill-21-Copy" fill="#242120" fill-rule="nonzero"></path>
+                </g>
+                <polygon id="Fill-27" fill="#242120" points="33.6538462 68.8420622 33.6538462 67.3076923 45.1923077 67.3076923 45.1923077 68.8420622"></polygon>
+            </g>
+            <polygon id="Line-4" fill="#242120" fill-rule="nonzero" points="9.61538462 25 69.2387815 25 69.2387815 23.0769231 9.61538462 23.0769231"></polygon>
+            <polygon id="Line-4-Copy" fill="#242120" fill-rule="nonzero" points="9.61538462 37.5 69.2387815 37.5 69.2387815 35.5769231 9.61538462 35.5769231"></polygon>
+            <polygon id="Line-4-Copy-2" fill="#242120" fill-rule="nonzero" points="9.61538462 50 69.2387815 50 69.2387815 48.0769231 9.61538462 48.0769231"></polygon>
+            <polygon id="Line-4-Copy-3" fill="#242120" fill-rule="nonzero" points="9.61538462 62.5 69.2387815 62.5 69.2387815 60.5769231 9.61538462 60.5769231"></polygon>
+            <polygon id="Line-4-Copy-4" fill="#242120" fill-rule="nonzero" points="9.61538462 75 69.2387815 75 69.2387815 73.0769231 9.61538462 73.0769231"></polygon>
+        </g>
+    </g>
+</svg>

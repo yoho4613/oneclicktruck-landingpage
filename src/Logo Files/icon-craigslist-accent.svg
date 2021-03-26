@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="75px" viewBox="0 0 90 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icons / Use Cases / icon-craigslist-accent</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-Use-Cases-/-icon-craigslist-accent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cl_icon" transform="translate(7.000000, 0.000000)">
+            <circle id="Oval-8" fill="#FFFFFF" cx="38.4493671" cy="37.5" r="35.6012658"></circle>
+            <path d="M38.4493671,74.5253165 C18.0008495,74.5253165 1.42405063,57.9485176 1.42405063,37.5 C1.42405063,17.0514824 18.0008495,0.474683544 38.4493671,0.474683544 C58.8978847,0.474683544 75.4746835,17.0514824 75.4746835,37.5 C75.4746835,57.9485176 58.8978847,74.5253165 38.4493671,74.5253165 Z M38.4493671,71.6772152 C57.3249218,71.6772152 72.6265823,56.3755547 72.6265823,37.5 C72.6265823,18.6244453 57.3249218,3.32278481 38.4493671,3.32278481 C19.5738123,3.32278481 4.2721519,18.6244453 4.2721519,37.5 C4.2721519,56.3755547 19.5738123,71.6772152 38.4493671,71.6772152 Z" id="Oval-8" fill="#242120" fill-rule="nonzero"></path>
+            <g id="Group-3" transform="translate(0.000000, 8.544304)" fill-rule="nonzero">
+                <circle id="Oval-8" fill="#E7412A" cx="38.4493671" cy="28.9556962" r="28.9556962"></circle>
+                <path d="M33.1329056,5.41442809 C17.1411162,5.41442809 4.1772094,18.3783349 4.1772094,34.3701243 L6.07594357,34.3701243 C6.07594357,19.4269768 18.1897581,7.31316226 33.1329056,7.31316226 L33.1329056,5.41442809 Z" id="Oval-8" fill="#242120" transform="translate(18.655057, 19.892276) rotate(-20.000000) translate(-18.655057, -19.892276) "></path>
+            </g>
+            <polygon id="Line" fill="#242120" fill-rule="nonzero" points="37.0253165 0.949367089 37.0253165 74.0570473 39.8734177 74.0570473 39.8734177 0.949367089"></polygon>
+            <polygon id="Line" fill="#242120" fill-rule="nonzero" points="38.6717664 41.1946084 12.7135958 61.961145 14.4927905 64.1851384 40.4509612 43.4186019"></polygon>
+            <polygon id="Line" fill="#242120" fill-rule="nonzero" transform="translate(50.316456, 52.689873) scale(-1, 1) translate(-50.316456, -52.689873) " points="62.4059436 41.1946084 36.447773 61.961145 38.2269677 64.1851384 64.1851384 43.4186019"></polygon>
+        </g>
+    </g>
+</svg>

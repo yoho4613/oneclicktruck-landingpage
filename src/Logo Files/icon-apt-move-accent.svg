@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="75px" viewBox="0 0 90 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icons / Use Cases / icon-apt-move-accent</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-Use-Cases-/-icon-apt-move-accent" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="apt_move_icon" transform="translate(9.000000, 0.000000)">
+            <polygon id="Path-12" fill="#FFFFFF" points="2.40377399 14.9243848 36.0636041 1.94805195 70.204289 16.8468045 70.6851437 59.6206425 37.5061683 73.0775803 1.92291927 59.1400376"></polygon>
+            <polygon id="Path-10" fill="#E7412A" fill-rule="nonzero" points="15.7305258 10.5189903 25.5767365 6.70780229 59.5909188 20.6821583 48.4020431 24.9168116"></polygon>
+            <polygon id="Line" fill="#242120" fill-rule="nonzero" points="24.3200191 7.46572026 59.4706654 22.1447621 60.5818779 19.4838363 25.4312316 4.80479451"></polygon>
+            <polygon id="Line" fill="#242120" fill-rule="nonzero" points="13.3109711 11.2599696 48.4616174 25.9390115 49.57283 23.2780857 14.4221837 8.59904389"></polygon>
+            <polygon id="Path-2" fill="#E7412A" fill-rule="nonzero" points="47.954488 25.3402769 58.2482537 21.9525543 58.6958088 33.8095836 48.4020431 37.1973062"></polygon>
+            <polygon id="Rectangle-16-Copy" fill="#242120" fill-rule="nonzero" points="69.0694577 19.1033501 69.0694577 59.2522734 36.1550469 72.2230955 37.2122881 74.9059224 71.9530873 61.2153621 71.9530873 14.9773576 35.0872298 28.4691469 36.078269 31.1771278"></polygon>
+            <path d="M3.29813467,17.7422415 L3.29813467,57.8276384 L34.4285367,70.6172247 L34.4257181,30.3827832 L3.29813467,17.7422415 Z M37.3092116,28.4414088 L37.3124677,74.9195636 L0.41450514,59.760438 L0.41450514,13.458907 L37.3092116,28.4414088 Z" id="Rectangle-16" fill="#242120" fill-rule="nonzero"></path>
+            <polygon id="Line" fill="#242120" fill-rule="nonzero" points="49.5540396 36.2038802 49.3961479 25.4334218 46.5128282 25.4756904 46.7313049 40.3789074 60.1376235 35.2233345 60.1376235 21.0977843 57.253994 21.0977843 57.253994 33.2427633"></polygon>
+            <polygon id="Path-3" fill="#242120" fill-rule="nonzero" points="70.7398427 17.700477 71.832593 15.0319164 36.1045537 0.401622912 0.464011586 13.4951235 1.4584081 16.2018733 36.0479627 3.49448098"></polygon>
+            <polygon id="Path-11" fill="#242120" fill-rule="nonzero" points="9.08330017 53.5748536 9.08330017 43.5492862 7.16088049 43.5492862 7.16088049 54.8488881 17.1462034 59.0736703 17.8952885 57.3031989"></polygon>
+        </g>
+    </g>
+</svg>
