@@ -8,6 +8,7 @@
 
 html {
   font-size: 62.5%;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -74,7 +75,6 @@ i {
 /* ---------Navigation Style ---------- */
 
 nav {
-  position: sticky;
   margin: 2rem auto;
   justify-content: space-between;
   align-items: center;
@@ -101,6 +101,7 @@ nav ul li {
 .main-header {
   text-align: center;
   margin-top: 10rem;
+  
 }
 
 .main-header h3 {
@@ -135,6 +136,7 @@ nav ul li {
   margin: 10rem auto;
   justify-content: space-around;
   max-width: 120rem;
+  
 }
 
 #main-about img {
