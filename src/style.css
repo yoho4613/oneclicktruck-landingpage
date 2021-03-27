@@ -146,6 +146,7 @@ nav ul li {
 #main-about {
   margin: 10rem auto;
   justify-content: space-around;
+  flex-wrap: wrap;
   max-width: 120rem;
 }
 
@@ -185,6 +186,8 @@ nav ul li {
 
 .main-how-works-container {
   justify-content: center;
+  flex-wrap: wrap;
+
 }
 
 .main-how-works-container img {
@@ -360,6 +363,26 @@ nav ul li {
   background-color: #de3119;
 }
 
+.driver-container-how-it-works {
+  text-align: center;
+}
+
+.driver-container-how-it-works > ul {
+  justify-content: center;
+}
+
+.driver-container-how-it-works > ul > li {
+  max-width: 30rem;
+}
+
+.driver-container-how-it-works > ul > li:nth-child(2) {
+  margin: 0 5rem;
+}
+
+.driver-container-how-it-works > ul > li > img {
+  border-bottom: 1px solid #de3119;
+}
+
 .driver-container-info {
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -383,6 +406,10 @@ nav ul li {
 .driver-container-info > img {
   width: 50rem;
 } 
+
+.btn-join {
+  color: #fff;
+}
 
 /*--------------------- Footer Style------------------- */
 
