@@ -63,7 +63,7 @@ span {
 
 .btn {
   padding: 1.5rem 4rem;
-  background: #e7412a;
+  background: #6ed1ba;
   font-size: 2rem;
   color: #fff;
   border-radius: 30px;
@@ -74,11 +74,16 @@ span {
 }
 
 .btn:hover {
-  background: #de3119;
+  background: #339e85;
 }
 
 .hide {
   display: none;
+}
+
+.service-dropdown.hide {
+  height: 0;
+  display: block;
 }
 
 .show {
@@ -88,15 +93,22 @@ span {
 /* ---------Navigation Style ---------- */
 
 nav {
-  margin: 2rem auto;
+  padding: 1rem 15rem;
   justify-content: space-between;
   align-items: center;
-  max-width: 1000px;
+  width: 100vw;
+  background-color: #79d4bf;
+  position: fixed;
+  top: 0;
+}
+
+nav * {
+  cursor: pointer;
 }
 
 nav .nav-logo {
   margin-left: 5rem;
-  width: 10rem;
+  width: 7rem;
 }
 
 nav ul {
@@ -109,11 +121,32 @@ nav ul li {
   font-weight: bold;
 }
 
+.btn-nav {
+  font-size: inherit;
+  font-weight: inherit;
+  font-family: inherit;
+  border: none;
+  background-color: inherit;
+  outline: none;
+}
+
+.service-dropdown {
+  position: absolute;
+  transition: 0.3s;
+  height: 20rem;
+  overflow: hidden;
+}
+
+.service-dropdown, .service-dropdown li {
+  padding: 1rem 0;
+}
+
 /* ---------Main Section Style ---------- */
 
 .main-header {
+  position: static;
   text-align: center;
-  margin-top: 10rem;
+  margin-top: 30rem;
 }
 
 .main-header h3 {
@@ -187,7 +220,6 @@ nav ul li {
 .main-how-works-container {
   justify-content: center;
   flex-wrap: wrap;
-
 }
 
 .main-how-works-container img {
@@ -332,7 +364,7 @@ nav ul li {
 }
 
 #driver > p > a {
-  color: gray; 
+  color: gray;
   font-weight: normal;
 }
 
@@ -349,10 +381,10 @@ nav ul li {
 }
 
 .driver-container > ul > li {
- font-size: 2rem;
- font-weight: 600;
- color: #000;
- list-style: inside;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #000;
+  list-style: inside;
 }
 
 .driver-container > ul > hr {
@@ -360,7 +392,7 @@ nav ul li {
   height: 0.3rem;
   margin: 0.5rem auto 2rem;
   border: none;
-  background-color: #de3119;
+  background-color: #339e85;
 }
 
 .driver-container-how-it-works {
@@ -380,7 +412,7 @@ nav ul li {
 }
 
 .driver-container-how-it-works > ul > li > img {
-  border-bottom: 1px solid #de3119;
+  border-bottom: 1px solid #339e85;
 }
 
 .driver-container-info {
@@ -405,7 +437,7 @@ nav ul li {
 
 .driver-container-info > img {
   width: 50rem;
-} 
+}
 
 .btn-join {
   color: #fff;
